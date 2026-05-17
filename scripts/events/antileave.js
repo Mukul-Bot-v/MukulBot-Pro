@@ -2,9 +2,9 @@ const { getTime } = global.utils;
 
 module.exports = {
   config: {
-    name: "autoinvite",
+    name: "antileave",
     version: "2.5",
-    author: "Mohammad Akash",
+    author: "EryXenX",
     category: "events"
   },
 
